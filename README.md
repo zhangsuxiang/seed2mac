@@ -1,0 +1,2 @@
+# seed2mac
+CrazyBeachball程序，SEED文件转为可输入sac并可视化程序
